@@ -1,0 +1,8 @@
+name: binder-billing
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - altair
+  - numpy
+  - plotly
